@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/api/chat";
+const API_URL = "https://universal-chatroom-app-backend.onrender.com";
 
 const getAuthHeaders = () => {
   const token = localStorage.getItem("token");
