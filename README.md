@@ -26,21 +26,21 @@ This is the frontend part of a real-time chat application built with React. It p
 ## Project Structure
 
 src/
-├── components/
-│ ├── Login.js
-│ ├── ChatRoom.js
-│ ├── MessageInput.js
-│ ├── Register.js
-├── services/
-│ ├── authService.js
-│ ├── chatService.js
-├── App.js
-├── index.js
-public/
-├── index.html
-├── ...
-package.json
-README.md
+  ├── components/
+  │ ├── Login.js
+  │ ├── ChatRoom.js
+  │ ├── MessageInput.js
+  │ ├── Register.js
+  ├── services/
+  │ ├── authService.js
+  │ ├── chatService.js
+  ├── App.js
+  ├── index.js
+  public/
+  ├── index.html
+  ├── ...
+  package.json
+  README.md
 
 ## Setup Instructions
 
