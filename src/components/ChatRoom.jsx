@@ -7,7 +7,7 @@ import io from "socket.io-client";
 import moment from "moment";
 import toast from "react-hot-toast";
 
-const socket = io("http://localhost:3000");
+const socket = io("https://universal-chatroom-app-backend.onrender.com");
 
 const ChatRoom = () => {
   const navigate = useNavigate();
